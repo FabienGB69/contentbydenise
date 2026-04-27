@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "title": "Créatrice UGC Belgique | Contenu mariage & événementiel — Content by Denise",
+    "description": "Denise Fabiano crée des vidéos UGC et contenus événementiels premium pour les marques beauté, lifestyle, mariages et événements en Belgique. Disponible en français, néerlandais et anglais.",
+    "home": {
+      "title": "Créatrice UGC & Event Content pour marques premium en Belgique",
+      "description": "Des vidéos élégantes et prêtes à publier pour les marques beauté, lifestyle, mariages et événements premium en Belgique."
+    },
+    "portfolio": {
+      "title": "Portfolio — Content by Denise",
+      "description": "Découvrez les vidéos UGC, contenus produit, mariage et événementiel de Denise Fabiano, créatrice de contenu basée en Belgique."
+    },
+    "packages": {
+      "title": "Offres — Content by Denise",
+      "description": "Des offres de contenu flexibles pour UGC, produit, mariage et événementiel. Sur devis, sans frais cachés."
+    },
+    "contact": {
+      "title": "Contact — Content by Denise",
+      "description": "Envoyez une demande de contenu premium pour UGC, événements, mariages et projets hospitality."
+    },
+    "about": {
+      "title": "À propos — Content by Denise",
+      "description": "Rencontrez Denise Fabiano, créatrice UGC et événementielle multilingue basée en Belgique."
+    },
+    "faq": {
+      "title": "FAQ — Content by Denise",
+      "description": "Questions fréquentes sur le contenu UGC, la couverture événementielle, les mariages et la collaboration avec Denise Fabiano."
+    },
+    "privacy": {
+      "title": "Politique de confidentialité — Content by Denise",
+      "description": "Politique de confidentialité de contentbydenise.com"
+    }
+  },
+  "hero": {
+    "eyebrow": "Créatrice UGC & Event Content · Belgique",
+    "title": "Créatrice UGC & Event Content pour marques premium",
+    "subtitle": "Je crée des vidéos élégantes et prêtes à publier pour les marques beauté, lifestyle, mariages et événements premium en Belgique.",
+    "proof": "Basée en Belgique · Français / Néerlandais / Anglais · UGC · Mariages · Événements · Livraison rapide",
+    "cta_primary": "Contacter sur WhatsApp",
+    "cta_secondary": "Voir le portfolio",
+    "visual_placeholder": "Reel vedette, montage de campagne ou portrait."
+  },
+  "trustBar": {
+    "items": ["Basée en Belgique", "Français / Néerlandais / Anglais", "UGC & Événements", "Livraison rapide"]
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "Services de contenu premium pensés pour la performance sociale",
+    "description": "Un accompagnement flexible pour les marques beauté, lifestyle, hospitality, mariage et événementiel.",
+    "ugcVideos": {
+      "title": "Vidéos UGC",
+      "description": "Vidéos courtes pensées pour Reels, TikTok, publicités et contenu organique.",
+      "includes": ["Angle créatif", "Aide au script", "Démonstration produit", "Format face caméra ou voix off", "Sous-titres", "Vidéo verticale montée"]
+    },
+    "productContent": {
+      "title": "Contenu Produit & Lifestyle",
+      "description": "Contenus produit premium avec une approche lifestyle et éditoriale.",
+      "includes": ["Plans produit", "Mises en scène lifestyle", "Détails produit", "Transitions", "Contenu pour réseaux sociaux et campagnes"]
+    },
+    "weddingsEvents": {
+      "title": "Mariages & Événements Premium",
+      "description": "Captation verticale sur site pour mariages, lancements de marque, événements privés et expériences hospitality.",
+      "includes": ["Couverture événementielle", "Coulisses", "Reels récapitulatifs", "Livraison rapide ou le jour même", "Clips courts pour Instagram et TikTok"]
+    }
+  },
+  "weddings": {
+    "eyebrow": "Mariages & Événements",
+    "title": "Mariages & Événements Premium",
+    "description": "Du contenu élégant capté sur site pour les moments qui comptent. Denise accompagne les mariages, lancements de marque, événements privés et expériences hospitality avec discrétion et sensibilité éditoriale.",
+    "items": ["Captation verticale sur site", "Coulisses & moments spontanés", "Reels récapitulatifs", "Livraison rapide ou le jour même", "Clips Instagram & TikTok", "Approche discrète et élégante"],
+    "cta": "Demander un devis pour votre événement"
+  },
+  "whyDenise": {
+    "eyebrow": "Pourquoi Denise",
+    "title": "Une partenaire contenu premium pour les marques modernes",
+    "description": "Direction créative, production et montage adaptés à la façon dont les gens consomment les réseaux sociaux.",
+    "points": [
+      { "title": "Esthétique premium", "description": "Un regard éditorial formé aux contextes beauté, lifestyle et luxe." },
+      { "title": "UGC authentique", "description": "Un contenu natif aux plateformes — sans effet forcé ou corporate." },
+      { "title": "Multilingue", "description": "Français, néerlandais et anglais — pour les marques aux audiences diverses." },
+      { "title": "Livraison rapide", "description": "Des délais réactifs pour les campagnes et les événements en direct." },
+      { "title": "Format social natif", "description": "Chaque format est conçu pour les Reels, TikTok et la performance sociale." }
+    ]
+  },
+  "process": {
+    "eyebrow": "Processus",
+    "title": "Un workflow simple, des attentes claires",
+    "description": "Un processus de production fluide pour garder campagnes et événements en mouvement.",
+    "steps": [
+      { "step": "01", "title": "Brief", "description": "Partagez votre marque, vos objectifs et votre calendrier." },
+      { "step": "02", "title": "Production", "description": "Concept, tournage et montage adaptés à votre brief." },
+      { "step": "03", "title": "Livraison", "description": "Fichiers prêts pour les réseaux, livrés dans les temps." }
+    ]
+  },
+  "packages": {
+    "eyebrow": "Offres",
+    "title": "Des offres flexibles adaptées à vos objectifs",
+    "description": "Toutes les offres sont sur devis personnalisé. Sans frais cachés.",
+    "plans": [
+      {
+        "tier": "Starter Content",
+        "subtitle": "Devis personnalisé",
+        "description": "Pour les marques qui souhaitent tester un angle contenu précis.",
+        "features": ["1 concept contenu", "Aide au script", "Vidéo verticale montée", "1 révision"],
+        "idealFor": "Premier test de campagne ou rafraîchissement de contenu initial.",
+        "cta": "Vérifier les disponibilités"
+      },
+      {
+        "tier": "Brand Content Pack",
+        "subtitle": "Sur demande",
+        "description": "Pour les marques qui ont besoin de contenu social régulier.",
+        "features": ["Plusieurs concepts créatifs", "Contenu UGC et produit", "Versions organiques et paid", "Contenu adapté Instagram et TikTok"],
+        "idealFor": "Marques qui construisent un contenu régulier et testent des angles créatifs.",
+        "cta": "Envoyer un brief"
+      },
+      {
+        "tier": "Wedding & Event Coverage",
+        "subtitle": "Envoyez votre brief",
+        "description": "Pour les mariages, lancements, lieux et événements privés premium.",
+        "features": ["Captation verticale sur site", "Highlights événementiels", "Clips courts", "Option livraison rapide", "Rushs bruts en option"],
+        "idealFor": "Mariages, lieux, lancements et événements premium.",
+        "cta": "Demander un devis pour votre événement"
+      }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Avis clients",
+    "title": "Ce que disent les clients",
+    "comingSoon": "Les avis clients arrivent bientôt. Suivez sur Instagram et TikTok pour voir les vrais résultats.",
+    "ctaLabel": "Voir Instagram"
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Questions fréquentes",
+    "viewAll": "Voir toutes les questions",
+    "items": [
+      { "question": "Qu'est-ce que le contenu UGC ?", "answer": "Le contenu UGC (style User-Generated Content) est un contenu natif aux plateformes sociales qui semble authentique tout en étant produit professionnellement pour les objectifs de votre marque." },
+      { "question": "Travaillez-vous avec des marques hors Belgique ?", "answer": "Oui. Basée en Belgique, Denise travaille avec des marques locales et internationales, à distance ou sur site selon les besoins." },
+      { "question": "Dans quelles langues créez-vous du contenu ?", "answer": "Français, néerlandais et anglais — aussi bien pour le contenu parlé qu'écrit." },
+      { "question": "Quels types d'événements couvrez-vous ?", "answer": "Mariages, expériences hospitality, showcases de lieux, événements privés, lancements de marque et activations premium." },
+      { "question": "Quels sont les délais de livraison ?", "answer": "Les délais varient selon la portée, mais des options de livraison rapide ou le jour même sont disponibles pour les événements en direct et les campagnes urgentes." },
+      { "question": "Proposez-vous les rushs bruts ?", "answer": "Oui, les rushs bruts peuvent être ajoutés selon les besoins du package et d'utilisation." },
+      { "question": "Le contenu peut-il être utilisé pour des publicités payantes ?", "answer": "Oui. Les droits d'utilisation publicitaire peuvent être inclus dans votre accord, avec des options adaptées à la durée et aux canaux de campagne." }
+    ]
+  },
+  "contactCta": {
+    "title": "Prête à créer du contenu que votre audience a vraiment envie de regarder ?",
+    "subtitle": "Parlons de votre marque, de votre campagne ou de votre événement.",
+    "cta": "Contacter sur WhatsApp"
+  },
+  "nav": {
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "weddings": "Mariages & Événements",
+    "about": "À propos",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "cta": "WhatsApp",
+    "langSwitch": "EN",
+    "menuOpen": "Ouvrir le menu",
+    "menuClose": "Fermer le menu"
+  },
+  "footer": {
+    "tagline": "Créatrice UGC & Event Content · Belgique",
+    "privacy": "Politique de confidentialité",
+    "contact": "Contact",
+    "rights": "Tous droits réservés.",
+    "followUs": "Suivre"
+  },
+  "portfolio": {
+    "eyebrow": "Portfolio",
+    "title": "Portfolio",
+    "description": "Une sélection de formats de contenu premium et natifs aux plateformes sociales.",
+    "filters": {
+      "all": "Tous",
+      "beauty": "Beauté",
+      "lifestyle": "Lifestyle",
+      "wedding": "Mariage",
+      "event": "Événement",
+      "product": "Produit"
+    },
+    "watchVideo": "Voir la vidéo",
+    "objective": "Objectif",
+    "deliverable": "Livrable",
+    "noItems": "Aucun contenu dans cette catégorie pour le moment."
+  },
+  "about": {
+    "title": "À propos de Denise",
+    "description": "Créative, orientée premium et multilingue. Denise aide les marques à traduire leur image en contenu natif que les gens regardent vraiment.",
+    "positioning": "Positionnement",
+    "positioningText": "Créatrice UGC & Event Content pour marques premium en Belgique.",
+    "bio": "Basée en Belgique, Denise travaille en français, néerlandais et anglais. Son approche combine direction créative, storytelling visuel épuré et montage natif pour livrer un contenu qui soutient à la fois l'image de marque et la performance sociale.",
+    "whatsapp": "Contacter sur WhatsApp"
+  },
+  "contact": {
+    "title": "Prenons contact",
+    "description": "Partagez votre projet et votre calendrier. Vous recevrez une réponse adaptée avec les prochaines étapes.",
+    "whatsapp": {
+      "title": "WhatsApp",
+      "description": "Le moyen le plus rapide de contacter Denise. Pour les questions rapides et les briefs.",
+      "cta": "Envoyer un message WhatsApp"
+    },
+    "email": {
+      "title": "Email",
+      "description": "Pour les briefs détaillés et les demandes formelles.",
+      "cta": "Envoyer un email"
+    },
+    "form": {
+      "title": "Envoyer un brief",
+      "description": "Pour les campagnes de marque, les collaborations hospitality et la captation événementielle.",
+      "name": "Nom",
+      "brand": "Marque / Entreprise",
+      "email": "Email",
+      "instagram": "Instagram ou site web",
+      "projectType": "Type de projet",
+      "projectTypes": ["Vidéos UGC", "Contenu Produit & Lifestyle", "Couverture mariage", "Couverture événementielle", "Lancement de marque", "Autre"],
+      "date": "Date souhaitée",
+      "message": "Message / Brief",
+      "submit": "Envoyer la demande",
+      "sending": "Envoi en cours...",
+      "success": "Merci ! Nous reviendrons vers vous très bientôt.",
+      "error": "Une erreur s'est produite. Veuillez réessayer ou contacter via WhatsApp."
+    }
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "description": "Comment nous collectons et utilisons vos données personnelles.",
+    "lastUpdated": "Dernière mise à jour",
+    "intro": "Cette politique de confidentialité explique comment Content by Denise (contentbydenise.com) collecte, utilise et protège vos données personnelles conformément au Règlement général sur la protection des données (RGPD).",
+    "sections": [
+      {
+        "title": "1. Responsable du traitement",
+        "content": "Denise Fabiano, agissant sous l'enseigne Content by Denise, est responsable du traitement des données personnelles collectées via ce site. Contact : denise_fabiano@outlook.com"
+      },
+      {
+        "title": "2. Données collectées",
+        "content": "Nous collectons les données suivantes lors de la soumission du formulaire de contact : votre nom, adresse email, nom de marque/entreprise, URL Instagram ou site web, type de projet, date souhaitée et votre message. Nous ne collectons pas de données via des cookies au-delà des analytics essentiels."
+      },
+      {
+        "title": "3. Utilisation des données",
+        "content": "Vos données sont utilisées exclusivement pour répondre à votre demande et fournir les services de création de contenu requis. Nous ne vendons, partageons ni transférons pas vos données personnelles à des tiers."
+      },
+      {
+        "title": "4. Conservation des données",
+        "content": "Nous conservons vos données de contact aussi longtemps que nécessaire pour traiter votre demande et tout accord de service qui en résulte, et au maximum 3 ans par la suite."
+      },
+      {
+        "title": "5. Vos droits",
+        "content": "Conformément au RGPD, vous avez le droit d'accéder à vos données, de les corriger, de les supprimer ou d'en restreindre le traitement. Pour exercer ces droits, contactez-nous à denise_fabiano@outlook.com."
+      },
+      {
+        "title": "6. Analytics",
+        "content": "Ce site utilise Google Analytics 4 pour comprendre le trafic et le comportement des utilisateurs. Les données analytiques sont anonymisées et ne vous identifient pas personnellement."
+      },
+      {
+        "title": "7. Contact",
+        "content": "Pour toute question relative à la confidentialité, contactez : denise_fabiano@outlook.com"
+      }
+    ]
+  }
+}

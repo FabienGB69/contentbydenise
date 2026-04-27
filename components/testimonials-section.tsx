@@ -1,34 +1,27 @@
+import { getTranslations } from 'next-intl/server';
 import { SectionHeading } from '@/components/section-heading';
-import { TestimonialCard } from '@/components/testimonial-card';
+import { siteConfig } from '@/lib/site';
 
-const testimonials = [
-  {
-    quote:
-      'Denise delivered aesthetic social assets that felt premium and completely in tune with our brand tone.',
-    author: 'Brand Marketing Manager',
-    role: 'Beauty Client',
-  },
-  {
-    quote: 'The event coverage was elegant, fast, and easy to publish while the experience was still fresh.',
-    author: 'Event Planner',
-    role: 'Hospitality Partner',
-  },
-  {
-    quote: 'Clear communication, fast turnaround, and content that looked native instead of forced.',
-    author: 'Founder',
-    role: 'Lifestyle Brand',
-  },
-];
+export async function TestimonialsSection() {
+  const t = await getTranslations('testimonials');
 
-export function TestimonialsSection() {
   return (
     <section className="section-space">
       <div className="container-shell space-y-8">
-        <SectionHeading eyebrow="Testimonials" title="Trusted by premium-focused teams" />
-        <div className="grid gap-5 md:grid-cols-3">
-          {testimonials.map((testimonial) => (
-            <TestimonialCard key={testimonial.author + testimonial.role} {...testimonial} />
-          ))}
+        <SectionHeading
+          eyebrow={t('eyebrow')}
+          title={t('title')}
+        />
+        <div className="card bg-muted text-center py-12">
+          <p className="text-sm text-neutral-600 max-w-lg mx-auto">{t('comingSoon')}</p>
+          <a
+            href={siteConfig.instagram}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mt-6 inline-flex rounded-full border px-5 py-3 text-sm hover:bg-white transition-colors"
+          >
+            {t('ctaLabel')}
+          </a>
         </div>
       </div>
     </section>

@@ -1,59 +1,30 @@
-import type { Metadata } from 'next';
-
 export const siteConfig = {
-  name: 'Denise Fabiano',
-  url: 'https://www.denisefabiano.com',
+  name: 'Content by Denise',
+  url: 'https://www.contentbydenise.com',
   description:
-    'UGC Creator & Event Content Creator for premium brands in Belgium. Native, aesthetic and high-converting content for lifestyle, beauty, hospitality and event brands.',
-  tagline: 'UGC Creator & Event Content Creator for premium brands in Belgium',
+    'Denise Fabiano creates premium UGC videos and event content for beauty, lifestyle, wedding and premium event brands in Belgium.',
+  tagline: 'UGC & Event Content Creator for Premium Brands · Belgium',
+  whatsapp: 'https://wa.me/32466445841',
+  email: 'denise_fabiano@outlook.com',
+  instagram: 'https://www.instagram.com/content.by.denise',
+  tiktok: 'https://www.tiktok.com/@content.by.denise',
 };
 
-export const navLinks = [
-  { href: '/ugc-services', label: 'UGC Services' },
-  { href: '/event-content-creation', label: 'Event Content' },
-  { href: '/portfolio', label: 'Portfolio' },
-  { href: '/case-studies', label: 'Case Studies' },
-  { href: '/packages', label: 'Packages' },
-  { href: '/about', label: 'About' },
-  { href: '/faq', label: 'FAQ' },
-  { href: '/contact', label: 'Contact' },
-];
-
-export function buildMetadata({
-  title,
-  description,
-  path,
-}: {
-  title: string;
-  description: string;
-  path: string;
-}): Metadata {
-  const canonical = `${siteConfig.url}${path}`;
-
-  return {
-    title,
-    description,
-    alternates: {
-      canonical,
-      // TODO: connect hreflang strategy when multilingual routes are live.
-      languages: {
-        'en-BE': canonical,
-      },
-    },
-    openGraph: {
-      title,
-      description,
-      url: canonical,
-      siteName: siteConfig.name,
-      locale: 'en_BE',
-      type: 'website',
-      // TODO: add branded OG image in /public and map image URL here.
-    },
-    twitter: {
-      card: 'summary_large_image',
-      title,
-      description,
-      // TODO: add branded Twitter image once available.
-    },
-  };
-}
+export const navLinks = {
+  en: [
+    { href: '/en/services', label: 'Services' },
+    { href: '/en/portfolio', label: 'Portfolio' },
+    { href: '/en/weddings-events', label: 'Weddings & Events' },
+    { href: '/en/about', label: 'About' },
+    { href: '/en/faq', label: 'FAQ' },
+    { href: '/en/contact', label: 'Contact' },
+  ],
+  fr: [
+    { href: '/fr/services', label: 'Services' },
+    { href: '/fr/portfolio', label: 'Portfolio' },
+    { href: '/fr/weddings-events', label: 'Mariages & Événements' },
+    { href: '/fr/about', label: 'À propos' },
+    { href: '/fr/faq', label: 'FAQ' },
+    { href: '/fr/contact', label: 'Contact' },
+  ],
+};
