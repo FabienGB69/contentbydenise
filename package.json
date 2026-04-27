@@ -12,8 +12,10 @@
     "@vercel/analytics": "^2.0.1",
     "framer-motion": "^11.18.2",
     "next": "15.2.8",
+    "next-intl": "^3.26.5",
     "react": "19.0.0",
-    "react-dom": "19.0.0"
+    "react-dom": "19.0.0",
+    "resend": "^4.8.0"
   },
   "devDependencies": {
     "@types/node": "^22.13.9",

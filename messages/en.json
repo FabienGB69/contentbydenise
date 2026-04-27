@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "title": "UGC Creator Belgium | Wedding & Event Content Creator — Content by Denise",
+    "description": "Denise Fabiano creates premium UGC videos and event content for beauty, lifestyle, wedding and premium event brands in Belgium. Available in French, Dutch and English.",
+    "home": {
+      "title": "UGC & Event Content Creator for Premium Brands in Belgium",
+      "description": "Native, aesthetic and high-converting content for lifestyle, beauty, hospitality and event brands in Belgium."
+    },
+    "portfolio": {
+      "title": "Portfolio — Content by Denise",
+      "description": "Browse UGC, product, wedding, event and beauty content by Denise Fabiano, UGC creator based in Belgium."
+    },
+    "packages": {
+      "title": "Packages — Content by Denise",
+      "description": "Flexible content packages for UGC, product, wedding and event coverage. Custom-quoted, no hidden fees."
+    },
+    "contact": {
+      "title": "Contact — Content by Denise",
+      "description": "Send a premium content inquiry for UGC, events, weddings and hospitality projects."
+    },
+    "about": {
+      "title": "About — Content by Denise",
+      "description": "Meet Denise Fabiano, Belgium-based multilingual UGC and event content creator for premium brands."
+    },
+    "faq": {
+      "title": "FAQ — Content by Denise",
+      "description": "Frequently asked questions about UGC content, event coverage, weddings and working with Denise Fabiano."
+    },
+    "privacy": {
+      "title": "Privacy Policy — Content by Denise",
+      "description": "Privacy policy for contentbydenise.com"
+    }
+  },
+  "hero": {
+    "eyebrow": "UGC & Event Content Creator · Belgium",
+    "title": "UGC & Event Content Creator for Premium Brands",
+    "subtitle": "I create elegant, social-ready videos and event content for beauty, lifestyle, wedding and premium event brands in Belgium.",
+    "proof": "Belgium based · French / Dutch / English · UGC Videos · Wedding & Event Content · Fast Delivery",
+    "cta_primary": "Contact on WhatsApp",
+    "cta_secondary": "View Portfolio",
+    "visual_placeholder": "Featured reel, campaign montage or portrait."
+  },
+  "trustBar": {
+    "items": ["Belgium based", "French / Dutch / English", "UGC & Event Content", "Fast Delivery"]
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "Premium content services built for social performance",
+    "description": "Flexible support for beauty, lifestyle, hospitality, wedding and event brands.",
+    "ugcVideos": {
+      "title": "UGC Videos",
+      "description": "Short-form videos designed for Reels, TikTok, paid ads and organic content.",
+      "includes": ["Concept direction", "Script support", "Product demonstration", "Voice-over or talking-head format", "Subtitles", "Edited vertical video"]
+    },
+    "productContent": {
+      "title": "Product & Lifestyle Content",
+      "description": "Premium product visuals with a lifestyle and editorial feel.",
+      "includes": ["Product shots", "Lifestyle scenes", "Close-ups", "Transitions", "Content for social media and campaigns"]
+    },
+    "weddingsEvents": {
+      "title": "Weddings & Premium Events",
+      "description": "On-site vertical content for weddings, brand launches, private events and hospitality moments.",
+      "includes": ["Event coverage", "Behind-the-scenes", "Highlight reels", "Same-day or fast-turnaround edits", "Short clips for Instagram and TikTok"]
+    }
+  },
+  "weddings": {
+    "eyebrow": "Weddings & Events",
+    "title": "Weddings & Premium Events",
+    "description": "Elegant on-site content for the moments that matter. Denise captures weddings, brand launches, private events and premium hospitality experiences with a discreet and editorial approach.",
+    "items": ["Vertical event coverage", "Behind-the-scenes content", "Highlight reels", "Same-day or fast delivery", "Instagram & TikTok clips", "Discreet and elegant approach"],
+    "cta": "Inquire for your event"
+  },
+  "whyDenise": {
+    "eyebrow": "Why Denise",
+    "title": "A premium content partner for modern brands",
+    "description": "Creative direction, production and editing tailored to the way people consume social media.",
+    "points": [
+      { "title": "Premium aesthetic", "description": "An editorial eye trained for beauty, lifestyle and luxury contexts." },
+      { "title": "Authentic UGC", "description": "Content that feels native to the platform — not forced or corporate." },
+      { "title": "Multilingual", "description": "French, Dutch and English — for brands with diverse audiences." },
+      { "title": "Fast delivery", "description": "Responsive turnaround for both campaigns and live events." },
+      { "title": "Social-native formats", "description": "Every format is built for Reels, TikTok and social performance." }
+    ]
+  },
+  "process": {
+    "eyebrow": "Process",
+    "title": "Simple workflow, clear expectations",
+    "description": "A streamlined production process to keep campaigns and events moving fast.",
+    "steps": [
+      { "step": "01", "title": "Brief", "description": "Share your brand, campaign goals and timeline." },
+      { "step": "02", "title": "Production", "description": "Concept, shoot and edit tailored to your brief." },
+      { "step": "03", "title": "Delivery", "description": "Social-ready files delivered on time, every time." }
+    ]
+  },
+  "packages": {
+    "eyebrow": "Packages",
+    "title": "Flexible packages aligned with your goals",
+    "description": "All packages are custom-quoted. No hidden fees.",
+    "plans": [
+      {
+        "tier": "Starter Content",
+        "subtitle": "Custom quote",
+        "description": "For brands looking to test one clear content angle.",
+        "features": ["1 content concept", "Script support", "Edited vertical video", "1 revision"],
+        "idealFor": "Single campaign test or initial content refresh.",
+        "cta": "Request availability"
+      },
+      {
+        "tier": "Brand Content Pack",
+        "subtitle": "Available on request",
+        "description": "For brands that need consistent social content.",
+        "features": ["Several creative concepts", "UGC and product content", "Organic and paid variations", "Content for Instagram and TikTok"],
+        "idealFor": "Brands building consistent content and testing creative angles.",
+        "cta": "Send a brief"
+      },
+      {
+        "tier": "Wedding & Event Coverage",
+        "subtitle": "Send your brief",
+        "description": "For weddings, launches, venues and premium private events.",
+        "features": ["On-site vertical content", "Event highlights", "Short-form clips", "Fast delivery option", "Optional raw footage"],
+        "idealFor": "Weddings, venues, launches and high-touch brand events.",
+        "cta": "Inquire for your event"
+      }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Client Feedback",
+    "title": "What clients say",
+    "comingSoon": "Client reviews are coming soon. Follow on Instagram and TikTok to see real results in action.",
+    "ctaLabel": "View Instagram"
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Frequently asked questions",
+    "viewAll": "View all questions",
+    "items": [
+      { "question": "What is UGC content?", "answer": "UGC (User-Generated Content style) is social-native content that feels authentic while still being professionally produced for your brand goals." },
+      { "question": "Do you work with brands outside Belgium?", "answer": "Yes. Based in Belgium, Denise works with both local and international brands, remotely or on-site when required." },
+      { "question": "In which languages can you create content?", "answer": "French, Dutch and English — both spoken and written content." },
+      { "question": "What types of events do you cover?", "answer": "Weddings, hospitality experiences, venue showcases, private events, brand launches and premium activations." },
+      { "question": "How fast is delivery?", "answer": "Turnaround depends on scope, but same-day and fast-delivery options are available for live events and urgent campaigns." },
+      { "question": "Do you offer raw footage?", "answer": "Yes, raw footage can be added depending on package and usage needs." },
+      { "question": "Can content be used for paid ads?", "answer": "Yes. Ad usage rights can be included in your agreement, with options tailored to campaign duration and channels." }
+    ]
+  },
+  "contactCta": {
+    "title": "Ready to create content your audience actually wants to watch?",
+    "subtitle": "Let's discuss your brand, your campaign or your event.",
+    "cta": "Contact on WhatsApp"
+  },
+  "nav": {
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "weddings": "Weddings & Events",
+    "about": "About",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "cta": "WhatsApp",
+    "langSwitch": "FR",
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu"
+  },
+  "footer": {
+    "tagline": "UGC & Event Content Creator · Belgium",
+    "privacy": "Privacy Policy",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "followUs": "Follow"
+  },
+  "portfolio": {
+    "eyebrow": "Portfolio",
+    "title": "Portfolio",
+    "description": "A curated selection of premium, social-native content formats.",
+    "filters": {
+      "all": "All",
+      "beauty": "Beauty",
+      "lifestyle": "Lifestyle",
+      "wedding": "Wedding",
+      "event": "Event",
+      "product": "Product"
+    },
+    "watchVideo": "Watch video",
+    "objective": "Objective",
+    "deliverable": "Deliverable",
+    "noItems": "No items in this category yet."
+  },
+  "about": {
+    "title": "About Denise",
+    "description": "Creative, premium-oriented and multilingual. Denise helps brands translate their image into social-native content people genuinely watch.",
+    "positioning": "Positioning",
+    "positioningText": "UGC Creator & Event Content Creator for premium brands in Belgium.",
+    "bio": "Based in Belgium, Denise works in French, Dutch and English. Her approach combines creative direction, clean visual storytelling and platform-native editing to deliver content that supports both brand image and social performance.",
+    "whatsapp": "Contact on WhatsApp"
+  },
+  "contact": {
+    "title": "Get in touch",
+    "description": "Share your project and timeline. You'll receive a tailored response with next steps.",
+    "whatsapp": {
+      "title": "WhatsApp",
+      "description": "Fastest way to reach Denise. Available for quick questions and project briefs.",
+      "cta": "Message on WhatsApp"
+    },
+    "email": {
+      "title": "Email",
+      "description": "For detailed briefs and formal inquiries.",
+      "cta": "Send an email"
+    },
+    "form": {
+      "title": "Send a brief",
+      "description": "For brand campaigns, hospitality collaborations and event-day content creation.",
+      "name": "Name",
+      "brand": "Brand / Company",
+      "email": "Email",
+      "instagram": "Instagram or website",
+      "projectType": "Type of project",
+      "projectTypes": ["UGC Videos", "Product & Lifestyle Content", "Wedding Coverage", "Event Coverage", "Brand Launch", "Other"],
+      "date": "Desired date",
+      "message": "Message / Brief",
+      "submit": "Send inquiry",
+      "sending": "Sending...",
+      "success": "Thank you! We'll be in touch shortly.",
+      "error": "Something went wrong. Please try again or contact via WhatsApp."
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "description": "How we collect and use your personal data.",
+    "lastUpdated": "Last updated",
+    "intro": "This privacy policy explains how Content by Denise (contentbydenise.com) collects, uses and protects your personal data in compliance with the General Data Protection Regulation (GDPR).",
+    "sections": [
+      {
+        "title": "1. Data controller",
+        "content": "Denise Fabiano, operating as Content by Denise, is the data controller for personal data collected through this website. Contact: denise_fabiano@outlook.com"
+      },
+      {
+        "title": "2. Data we collect",
+        "content": "We collect the following data when you submit the contact form: your name, email address, company/brand name, Instagram or website URL, project type, desired date, and your message. We do not collect data through cookies beyond essential analytics."
+      },
+      {
+        "title": "3. How we use your data",
+        "content": "Your data is used exclusively to respond to your inquiry and to provide the requested content creation services. We do not sell, share, or transfer your personal data to third parties."
+      },
+      {
+        "title": "4. Data retention",
+        "content": "We retain your contact data for as long as necessary to process your inquiry and any resulting service agreement, and no longer than 3 years thereafter."
+      },
+      {
+        "title": "5. Your rights",
+        "content": "Under GDPR, you have the right to access, correct, delete, or restrict the processing of your personal data. To exercise these rights, contact us at denise_fabiano@outlook.com."
+      },
+      {
+        "title": "6. Analytics",
+        "content": "This website uses Google Analytics 4 to understand traffic and user behaviour. Analytics data is anonymised and does not personally identify you."
+      },
+      {
+        "title": "7. Contact",
+        "content": "For any privacy-related questions, contact: denise_fabiano@outlook.com"
+      }
+    ]
+  }
+}

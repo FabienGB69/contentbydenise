@@ -1,12 +1,15 @@
-import { trustItems } from '@/content/site-content';
+import { getTranslations } from 'next-intl/server';
 
-export function TrustBar() {
+export async function TrustBar() {
+  const t = await getTranslations('trustBar');
+  const items: string[] = t.raw('items') as string[];
+
   return (
     <section aria-label="Trust indicators" className="border-y bg-white py-4">
       <div className="container-shell grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
-        {trustItems.map((item) => (
+        {items.map((item) => (
           <p key={item} className="text-sm font-medium text-neutral-700">
-            {item}
+            · {item}
           </p>
         ))}
       </div>

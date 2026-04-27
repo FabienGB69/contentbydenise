@@ -1,35 +1,36 @@
+import { getTranslations } from 'next-intl/server';
 import { PricingCard } from '@/components/pricing-card';
 import { SectionHeading } from '@/components/section-heading';
+import { siteConfig } from '@/lib/site';
 
-const plans = [
-  {
-    tier: 'Starter',
-    subtitle: '€…',
-    features: ['1 short-form concept', 'Script support', 'Edited social-ready delivery'],
-    idealFor: 'Single campaign test or monthly content refresh.',
-  },
-  {
-    tier: 'Growth',
-    subtitle: '€…',
-    features: ['Multiple concepts', 'UGC + product coverage', 'Organic and ad variations'],
-    idealFor: 'Brands building consistent content and testing creative angles.',
-  },
-  {
-    tier: 'Premium / Event Day',
-    subtitle: '€…',
-    features: ['On-site event coverage', 'Fast-turn recap edits', 'Optional raw footage handover'],
-    idealFor: 'Weddings, venues, launches, and high-touch brand events.',
-  },
-];
+export async function PricingPreview() {
+  const t = await getTranslations('packages');
 
-export function PricingPreview() {
+  type Plan = {
+    tier: string;
+    subtitle: string;
+    description: string;
+    features: string[];
+    idealFor: string;
+    cta: string;
+  };
+  const plans: Plan[] = t.raw('plans') as Plan[];
+
   return (
-    <section className="section-space bg-white">
+    <section className="section-space bg-white" id="packages">
       <div className="container-shell space-y-8">
-        <SectionHeading eyebrow="Packages" title="Flexible packages aligned with your campaign goals" />
+        <SectionHeading
+          eyebrow={t('eyebrow')}
+          title={t('title')}
+          description={t('description')}
+        />
         <div className="grid gap-5 md:grid-cols-3">
           {plans.map((plan) => (
-            <PricingCard key={plan.tier} {...plan} />
+            <PricingCard
+              key={plan.tier}
+              {...plan}
+              ctaHref={siteConfig.whatsapp}
+            />
           ))}
         </div>
       </div>

@@ -1,43 +1,18 @@
+import Link from 'next/link';
+import { getTranslations } from 'next-intl/server';
 import { SectionHeading } from '@/components/section-heading';
 
-export const faqItems = [
-  {
-    question: 'What is UGC content?',
-    answer: 'UGC (User-Generated Content style) is social-native content that feels authentic while still being professionally produced for your brand goals.',
-  },
-  {
-    question: 'Do you work with brands outside Belgium?',
-    answer: 'Yes. Denise is based in Belgium and works with both local and international brands remotely or on-site when required.',
-  },
-  {
-    question: 'In which languages can you create content?',
-    answer: 'French, Dutch, and English.',
-  },
-  {
-    question: 'What types of events do you cover?',
-    answer: 'Weddings, hospitality experiences, venue showcases, private events, and premium brand activations.',
-  },
-  {
-    question: 'How fast is delivery?',
-    answer: 'Turnaround depends on scope, but fast delivery options are available for campaigns and live events.',
-  },
-  {
-    question: 'Do you offer raw footage?',
-    answer: 'Yes, raw footage can be added depending on package and licensing needs.',
-  },
-  {
-    question: 'Can content be used for ads?',
-    answer: 'Yes. Ad usage can be included in your agreement with options tailored to campaign duration and channels.',
-  },
-];
+export async function FaqAccordion({ preview = false }: { preview?: boolean }) {
+  const t = await getTranslations('faq');
 
-export function FaqAccordion({ preview = false }: { preview?: boolean }) {
-  const items = preview ? faqItems.slice(0, 4) : faqItems;
+  type FaqItem = { question: string; answer: string };
+  const allItems: FaqItem[] = t.raw('items') as FaqItem[];
+  const items = preview ? allItems.slice(0, 4) : allItems;
 
   return (
     <section className="section-space bg-white">
       <div className="container-shell space-y-8">
-        <SectionHeading eyebrow="FAQ" title="Frequently asked questions" />
+        <SectionHeading eyebrow={t('eyebrow')} title={t('title')} />
         <div className="space-y-3">
           {items.map((item) => (
             <details key={item.question} className="card group">
@@ -48,6 +23,11 @@ export function FaqAccordion({ preview = false }: { preview?: boolean }) {
             </details>
           ))}
         </div>
+        {preview && (
+          <Link href="faq" className="inline-flex rounded-full border px-5 py-3 text-sm hover:bg-muted transition-colors">
+            {t('viewAll')}
+          </Link>
+        )}
       </div>
     </section>
   );
