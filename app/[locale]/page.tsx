@@ -28,6 +28,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       languages: {
         'en-BE': `${siteConfig.url}/en`,
         'fr-BE': `${siteConfig.url}/fr`,
+        'nl-BE': `${siteConfig.url}/nl-be`,
+        'x-default': `${siteConfig.url}/en`,
       },
     },
     openGraph: {
@@ -35,7 +37,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description: t('description'),
       url: canonical,
       siteName: siteConfig.name,
-      locale: locale === 'fr' ? 'fr_BE' : 'en_BE',
+      locale: locale === 'fr' ? 'fr_BE' : locale === 'nl-be' ? 'nl_BE' : 'en_BE',
       type: 'website',
     },
   };

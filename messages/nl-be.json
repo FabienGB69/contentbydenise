@@ -1,0 +1,459 @@
+{
+  "metadata": {
+    "title": "UGC Creator België | Wedding & Event Content Creator — Content by Denise",
+    "description": "Denise Fabiano maakt premium UGC-video's en event content voor beauty-, lifestyle-, bruilofts- en premium eventmerken in België. Beschikbaar in het Frans, Nederlands en Engels.",
+    "home": {
+      "title": "UGC & Event Content Creator voor Premium Merken in België",
+      "description": "Native, esthetische en converterende content voor lifestyle-, beauty-, horeca- en eventmerken in België."
+    },
+    "portfolio": {
+      "title": "Portfolio — Content by Denise",
+      "description": "Bekijk UGC-, product-, bruilofts-, event- en beautycontent van Denise Fabiano, UGC creator gevestigd in België."
+    },
+    "packages": {
+      "title": "Pakketten — Content by Denise",
+      "description": "Flexibele contentpakketten voor UGC, product, bruiloft en event. Op maat geoffreerd, geen verborgen kosten."
+    },
+    "contact": {
+      "title": "Contact — Content by Denise",
+      "description": "Stuur een offerteverzoek voor UGC, events, bruiloften en hospitalityprojecten."
+    },
+    "about": {
+      "title": "Over ons — Content by Denise",
+      "description": "Ontmoet Denise Fabiano, meertalige UGC- en event content creator voor premium merken in België."
+    },
+    "faq": {
+      "title": "FAQ — Content by Denise",
+      "description": "Veelgestelde vragen over UGC content, event coverage, bruiloften en werken met Denise Fabiano."
+    },
+    "privacy": {
+      "title": "Privacybeleid — Content by Denise",
+      "description": "Privacybeleid voor contentbydenise.com"
+    },
+    "legalNotice": {
+      "title": "Wettelijke vermeldingen — Content by Denise",
+      "description": "Wettelijke informatie over de uitgever en de website van Content by Denise."
+    },
+    "termsOfUse": {
+      "title": "Gebruiksvoorwaarden — Content by Denise",
+      "description": "Voorwaarden voor het gebruik van de website van Content by Denise."
+    },
+    "termsAndConditions": {
+      "title": "Algemene voorwaarden — Content by Denise",
+      "description": "Algemene verkoopvoorwaarden van Content by Denise."
+    },
+    "cookiePolicy": {
+      "title": "Cookiebeleid — Content by Denise",
+      "description": "Hoe Content by Denise cookies en vergelijkbare technologieën gebruikt."
+    }
+  },
+  "hero": {
+    "eyebrow": "UGC & Event Content Creator · België",
+    "title": "UGC & Event Content Creator voor Premium Merken",
+    "subtitle": "Ik maak elegante, social-ready video's en event content voor beauty-, lifestyle-, bruilofts- en premium eventmerken in België.",
+    "proof": "Gevestigd in België · Frans / Nederlands / Engels · UGC Video's · Bruiloft & Event Content · Snelle Levering",
+    "cta_primary": "Contact via WhatsApp",
+    "cta_secondary": "Bekijk Portfolio",
+    "visual_placeholder": "Featured reel, campagnecollage of portret."
+  },
+  "trustBar": {
+    "items": ["Gevestigd in België", "Frans / Nederlands / Engels", "UGC & Event Content", "Snelle Levering"]
+  },
+  "services": {
+    "eyebrow": "Diensten",
+    "title": "Premium contentdiensten voor social performance",
+    "description": "Flexibele ondersteuning voor beauty-, lifestyle-, horeca-, bruilofts- en eventmerken.",
+    "ugcVideos": {
+      "title": "UGC Video's",
+      "description": "Short-form video's voor Reels, TikTok, betaalde advertenties en organische content.",
+      "includes": ["Conceptrichting", "Scriptondersteuning", "Productdemonstratie", "Voice-over of talking-head formaat", "Ondertitels", "Bewerkte verticale video"]
+    },
+    "productContent": {
+      "title": "Product & Lifestyle Content",
+      "description": "Premium productbeelden met een lifestyle- en editorial feel.",
+      "includes": ["Productopnamen", "Lifestyletaferelen", "Close-ups", "Overgangen", "Content voor sociale media en campagnes"]
+    },
+    "weddingsEvents": {
+      "title": "Bruiloften & Premium Events",
+      "description": "On-site verticale content voor bruiloften, merklanceringen, privé-evenementen en hospitalitymomenten.",
+      "includes": ["Eventcoverage", "Behind-the-scenes", "Highlight reels", "Same-day of snelle bewerkingen", "Korte clips voor Instagram en TikTok"]
+    }
+  },
+  "weddings": {
+    "eyebrow": "Bruiloften & Events",
+    "title": "Bruiloften & Premium Events",
+    "description": "Elegante on-site content voor de momenten die ertoe doen. Denise legt bruiloften, merklanceringen, privé-evenementen en premium hospitalitybelevenissen vast met een discrete en editorial aanpak.",
+    "items": ["Verticale eventcoverage", "Behind-the-scenes content", "Highlight reels", "Same-day of snelle levering", "Instagram & TikTok clips", "Discrete en elegante aanpak"],
+    "cta": "Vraag offerte aan voor uw event"
+  },
+  "whyDenise": {
+    "eyebrow": "Waarom Denise",
+    "title": "Een premium contentpartner voor moderne merken",
+    "description": "Creative direction, productie en bewerking afgestemd op de manier waarop mensen sociale media consumeren.",
+    "points": [
+      { "title": "Premium esthetiek", "description": "Een editorial oog getraind voor beauty-, lifestyle- en luxecontexten." },
+      { "title": "Authentieke UGC", "description": "Content die native aanvoelt op het platform — niet geforceerd of corporate." },
+      { "title": "Meertalig", "description": "Frans, Nederlands en Engels — voor merken met diverse doelgroepen." },
+      { "title": "Snelle levering", "description": "Responsieve doorlooptijd voor zowel campagnes als live evenementen." },
+      { "title": "Social-native formaten", "description": "Elk formaat is gebouwd voor Reels, TikTok en social performance." }
+    ]
+  },
+  "process": {
+    "eyebrow": "Proces",
+    "title": "Eenvoudige workflow, duidelijke verwachtingen",
+    "description": "Een gestroomlijnd productieproces om campagnes en evenementen snel te laten verlopen.",
+    "steps": [
+      { "step": "01", "title": "Briefing", "description": "Deel uw merk, campagnedoelen en tijdlijn." },
+      { "step": "02", "title": "Productie", "description": "Concept, opname en bewerking afgestemd op uw briefing." },
+      { "step": "03", "title": "Levering", "description": "Social-ready bestanden geleverd op tijd, elke keer." }
+    ]
+  },
+  "packages": {
+    "eyebrow": "Pakketten",
+    "title": "Flexibele pakketten afgestemd op uw doelen",
+    "description": "Alle pakketten worden op maat geoffreerd. Geen verborgen kosten.",
+    "plans": [
+      {
+        "tier": "Starter Content",
+        "subtitle": "Offerte op aanvraag",
+        "description": "Voor merken die één duidelijke contentinvalshoek willen testen.",
+        "features": ["1 contentconcept", "Scriptondersteuning", "Bewerkte verticale video", "1 revisieronde"],
+        "idealFor": "Test voor een enkele campagne of eerste contentvernieuwing.",
+        "cta": "Beschikbaarheid aanvragen"
+      },
+      {
+        "tier": "Brand Content Pack",
+        "subtitle": "Beschikbaar op aanvraag",
+        "description": "Voor merken die consistente social content nodig hebben.",
+        "features": ["Meerdere creatieve concepten", "UGC en productcontent", "Organische en betaalde varianten", "Content voor Instagram en TikTok"],
+        "idealFor": "Merken die consistente content opbouwen en creatieve invalshoeken testen.",
+        "cta": "Stuur uw briefing"
+      },
+      {
+        "tier": "Bruiloft & Event Coverage",
+        "subtitle": "Stuur uw briefing",
+        "description": "Voor bruiloften, lanceringen, venues en premium privé-evenementen.",
+        "features": ["On-site verticale content", "Event highlights", "Short-form clips", "Snelle leveringsoptie", "Optioneel ruwe beelden"],
+        "idealFor": "Bruiloften, venues, lanceringen en high-touch brandevents.",
+        "cta": "Vraag offerte aan voor uw event"
+      }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Klantfeedback",
+    "title": "Wat klanten zeggen",
+    "comingSoon": "Klantrecensies komen binnenkort. Volg ons op Instagram en TikTok om echte resultaten in actie te zien.",
+    "ctaLabel": "Bekijk Instagram"
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Veelgestelde vragen",
+    "viewAll": "Bekijk alle vragen",
+    "items": [
+      { "question": "Wat is UGC content?", "answer": "UGC (User-Generated Content stijl) is social-native content die authentiek aanvoelt terwijl het professioneel geproduceerd is voor uw merkdoelen." },
+      { "question": "Werkt u ook met merken buiten België?", "answer": "Ja. Gevestigd in België werkt Denise met zowel lokale als internationale merken, op afstand of ter plaatse indien nodig." },
+      { "question": "In welke talen kunt u content maken?", "answer": "Frans, Nederlands en Engels — zowel gesproken als geschreven content." },
+      { "question": "Welke soorten evenementen dekt u?", "answer": "Bruiloften, hospitalitybelevenissen, venue showcases, privé-evenementen, merklanceringen en premium activaties." },
+      { "question": "Hoe snel is de levering?", "answer": "De doorlooptijd hangt af van de omvang, maar same-day en snelle leveringsopties zijn beschikbaar voor live evenementen en urgente campagnes." },
+      { "question": "Biedt u ruwe beelden aan?", "answer": "Ja, ruwe beelden kunnen worden toegevoegd afhankelijk van het pakket en de gebruiksbehoeften." },
+      { "question": "Kan content worden gebruikt voor betaalde advertenties?", "answer": "Ja. Gebruiksrechten voor advertenties kunnen worden opgenomen in uw overeenkomst, met opties afgestemd op campagneduur en kanalen." }
+    ]
+  },
+  "contactCta": {
+    "title": "Klaar om content te maken die uw publiek echt wil bekijken?",
+    "subtitle": "Laten we praten over uw merk, uw campagne of uw event.",
+    "cta": "Contact via WhatsApp"
+  },
+  "nav": {
+    "services": "Diensten",
+    "portfolio": "Portfolio",
+    "weddings": "Bruiloften & Events",
+    "about": "Over ons",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "cta": "WhatsApp",
+    "langSwitch": "NL",
+    "menuOpen": "Menu openen",
+    "menuClose": "Menu sluiten"
+  },
+  "footer": {
+    "tagline": "UGC & Event Content Creator · België",
+    "privacy": "Privacybeleid",
+    "contact": "Contact",
+    "rights": "Alle rechten voorbehouden.",
+    "followUs": "Volgen",
+    "legalNotice": "Wettelijke vermeldingen",
+    "termsOfUse": "Gebruiksvoorwaarden",
+    "termsAndConditions": "Algemene voorwaarden",
+    "cookiePolicy": "Cookiebeleid",
+    "navigation": "Navigatie",
+    "legal": "Juridisch",
+    "socialContact": "Volgen & Contact",
+    "madeWith": "Gemaakt met",
+    "by": "door"
+  },
+  "portfolio": {
+    "eyebrow": "Portfolio",
+    "title": "Portfolio",
+    "description": "Een zorgvuldige selectie van premium, social-native contentformaten.",
+    "filters": {
+      "all": "Alles",
+      "beauty": "Beauty",
+      "lifestyle": "Lifestyle",
+      "wedding": "Bruiloft",
+      "event": "Event",
+      "product": "Product"
+    },
+    "watchVideo": "Video bekijken",
+    "objective": "Doelstelling",
+    "deliverable": "Oplevering",
+    "noItems": "Nog geen items in deze categorie."
+  },
+  "about": {
+    "title": "Over Denise",
+    "description": "Creatief, premiumgericht en meertalig. Denise helpt merken hun imago te vertalen naar social-native content die mensen echt bekijken.",
+    "positioning": "Positionering",
+    "positioningText": "UGC Creator & Event Content Creator voor premium merken in België.",
+    "bio": "Gevestigd in België werkt Denise in het Frans, Nederlands en Engels. Haar aanpak combineert creative direction, clean visual storytelling en platform-native bewerking om content te leveren die zowel merkimago als social performance ondersteunt.",
+    "whatsapp": "Contact via WhatsApp"
+  },
+  "contact": {
+    "title": "Neem contact op",
+    "description": "Deel uw project en tijdlijn. U ontvangt een antwoord op maat met volgende stappen.",
+    "whatsapp": {
+      "title": "WhatsApp",
+      "description": "Snelste manier om Denise te bereiken. Beschikbaar voor snelle vragen en projectbriefings.",
+      "cta": "Stuur bericht via WhatsApp"
+    },
+    "email": {
+      "title": "E-mail",
+      "description": "Voor gedetailleerde briefings en formele aanvragen.",
+      "cta": "Stuur een e-mail"
+    },
+    "form": {
+      "title": "Stuur een briefing",
+      "description": "Voor merkcampagnes, hospitalitysamenwerking en event-day content creation.",
+      "name": "Naam",
+      "brand": "Merk / Bedrijf",
+      "email": "E-mail",
+      "instagram": "Instagram of website",
+      "projectType": "Type project",
+      "projectTypes": ["UGC Video's", "Product & Lifestyle Content", "Bruiloftscoverage", "Eventcoverage", "Merklancering", "Overig"],
+      "date": "Gewenste datum",
+      "message": "Bericht / Briefing",
+      "submit": "Aanvraag versturen",
+      "sending": "Versturen...",
+      "success": "Bedankt! We nemen binnenkort contact met u op.",
+      "error": "Er is iets fout gegaan. Probeer het opnieuw of neem contact op via WhatsApp."
+    }
+  },
+  "privacy": {
+    "title": "Privacybeleid",
+    "description": "Hoe we uw persoonsgegevens verzamelen en gebruiken.",
+    "lastUpdated": "Laatst bijgewerkt",
+    "intro": "Dit privacybeleid legt uit hoe Content by Denise (contentbydenise.com) uw persoonsgegevens verzamelt, gebruikt en beschermt conform de Algemene Verordening Gegevensbescherming (AVG/GDPR).",
+    "sections": [
+      { "title": "1. Verwerkingsverantwoordelijke", "content": "Denise Fabiano, handelend als Content by Denise, is de verwerkingsverantwoordelijke. Contact: denise_fabiano@outlook.com" },
+      { "title": "2. Verzamelde gegevens", "content": "Naam, e-mail, bedrijfsnaam, Instagram/website, projecttype, gewenste datum en bericht via het contactformulier." },
+      { "title": "3. Gebruik van uw gegevens", "content": "Uw gegevens worden uitsluitend gebruikt om te reageren op uw aanvraag en de gevraagde diensten te leveren. We verkopen uw gegevens niet aan derden." },
+      { "title": "4. Bewaartermijn", "content": "We bewaren uw gegevens zolang nodig om uw aanvraag te verwerken, en maximaal 3 jaar daarna." },
+      { "title": "5. Uw rechten", "content": "U heeft het recht op inzage, correctie, verwijdering of beperking van uw gegevens. Neem contact op via denise_fabiano@outlook.com." },
+      { "title": "6. Analyse", "content": "Deze website gebruikt Google Analytics 4. Analysegegevens zijn geanonimiseerd." },
+      { "title": "7. Contact", "content": "Voor vragen: denise_fabiano@outlook.com" }
+    ]
+  },
+  "legalNotice": {
+    "title": "Wettelijke vermeldingen",
+    "description": "Wettelijke informatie over de uitgever en de website van Content by Denise.",
+    "lastUpdated": "[In te vullen]",
+    "sections": [
+      {
+        "title": "Uitgever van de website",
+        "content": "Handelsnaam: Content by Denise\nUitgeefster: Denise Fabiano\nRechtsvorm: [In te vullen]\nOndernemingsnummer / BTW: [In te vullen]\nProfessioneel adres: [In te vullen]\nE-mail: [In te vullen]\nTelefoon / WhatsApp: [In te vullen]"
+      },
+      {
+        "title": "Verantwoordelijke voor publicatie",
+        "content": "De verantwoordelijke voor publicatie is Denise Fabiano."
+      },
+      {
+        "title": "Website",
+        "content": "Naam: Content by Denise\nURL: https://contentbydenise.com"
+      },
+      {
+        "title": "Hosting",
+        "content": "De website wordt gehost door:\n\nVercel Inc.\n440 N Barranca Ave #4133\nCovina, CA 91723\nVerenigde Staten\nWebsite: https://vercel.com"
+      },
+      {
+        "title": "Creatie van de website",
+        "content": "De website werd ontworpen en ontwikkeld door:\n\nPixeloria\nCreatie en redesign van websites voor zelfstandigen, professionals en kmo's\nWebsite: https://pixeloria.fr\nE-mail: contact@pixeloria.fr\nTelefoon: +33 7 86 12 53 13"
+      },
+      {
+        "title": "Intellectuele eigendom",
+        "content": "Alle elementen op deze website zijn beschermd door intellectueel eigendomsrecht. Elke reproductie zonder voorafgaande schriftelijke toestemming is verboden."
+      },
+      {
+        "title": "Aansprakelijkheid",
+        "content": "Content by Denise streeft naar nauwkeurige informatie maar geeft geen garantie over volledigheid of actualiteit."
+      },
+      {
+        "title": "Persoonsgegevens",
+        "content": "Zie het Privacybeleid van de website."
+      },
+      {
+        "title": "Cookies",
+        "content": "Zie het Cookiebeleid van de website."
+      }
+    ]
+  },
+  "termsOfUse": {
+    "title": "Gebruiksvoorwaarden",
+    "description": "Voorwaarden voor het gebruik van de website van Content by Denise.",
+    "lastUpdated": "[In te vullen]",
+    "intro": "Deze Gebruiksvoorwaarden regelen de toegang tot en het gebruik van de website Content by Denise, toegankelijk op: https://contentbydenise.com.\n\nDoor op de website te navigeren, aanvaardt de gebruiker deze voorwaarden.",
+    "sections": [
+      {
+        "title": "Doel van de website",
+        "content": "De website presenteert de diensten van Denise Fabiano als UGC creator en Event Content Creator en biedt de mogelijkheid om:",
+        "list": ["haar diensten te ontdekken", "haar portfolio te raadplegen", "haar sociale netwerken te bezoeken", "een contactverzoek te versturen", "contact op te nemen via WhatsApp of e-mail"]
+      },
+      {
+        "title": "Toegang tot de website",
+        "content": "De website is gratis toegankelijk. Content by Denise garandeert geen permanente of foutloze toegang."
+      },
+      {
+        "title": "Gebruik van de website",
+        "content": "De gebruiker verbindt zich ertoe de website correct en in overeenstemming met de wet te gebruiken. Het is verboden om:",
+        "list": ["frauduleuze toegang te proberen", "het functioneren te verstoren", "inhoud te kopiëren zonder toestemming", "formulieren te misbruiken voor onwettige berichten"]
+      },
+      {
+        "title": "Intellectuele eigendom",
+        "content": "De inhoud van de website is beschermd. Elke reproductie zonder toestemming is verboden."
+      },
+      {
+        "title": "Externe links",
+        "content": "Content by Denise is niet verantwoordelijk voor de inhoud van externe platforms (Instagram, TikTok, WhatsApp enz.)."
+      },
+      {
+        "title": "Persoonsgegevens",
+        "content": "Zie het Privacybeleid voor meer informatie over de verwerking van persoonsgegevens."
+      },
+      {
+        "title": "Wijziging van de voorwaarden",
+        "content": "Content by Denise behoudt zich het recht voor deze voorwaarden op elk moment te wijzigen."
+      },
+      {
+        "title": "Toepasselijk recht",
+        "content": "Toepasselijk recht: [In te vullen]"
+      }
+    ]
+  },
+  "termsAndConditions": {
+    "title": "Algemene voorwaarden",
+    "description": "Algemene verkoopvoorwaarden van Content by Denise.",
+    "lastUpdated": "[In te vullen]",
+    "intro": "Deze Algemene voorwaarden regelen de diensten aangeboden door Content by Denise — prestaties van UGC content, productcontent, lifestylecontent, wedding content en event content door Denise Fabiano.",
+    "sections": [
+      {
+        "title": "Dienstverlener",
+        "content": "Handelsnaam: Content by Denise\nDienstverlener: Denise Fabiano\nRechtsvorm: [In te vullen]\nOndernemingsnummer / BTW: [In te vullen]\nProfessioneel adres: [In te vullen]\nE-mail: [In te vullen]"
+      },
+      {
+        "title": "Aangeboden diensten",
+        "content": "Content by Denise biedt onder meer aan:",
+        "list": ["UGC video's", "Productcontent", "Lifestylecontent", "Wedding content", "Event content", "Verticale video's voor Instagram, TikTok, Reels en digitale campagnes", "Visuele content voor beauty-, lifestyle-, horeca- en eventmerken"]
+      },
+      {
+        "title": "Offerte en bestelling",
+        "content": "Elke dienst wordt vooraf besproken om te bepalen: behoefte, type content, opleveringen, termijnen, gebruiksrechten en financiële voorwaarden.\n\nDe bestelling is geldig na schriftelijke aanvaarding van de offerte."
+      },
+      {
+        "title": "Prijzen",
+        "content": "Prijzen worden niet publiek weergegeven. Elk project krijgt een gepersonaliseerde offerte op basis van: type dienst, aantal contentstukken, complexiteit, locatie, termijnen, gebruiksrechten en specifieke behoeften."
+      },
+      {
+        "title": "Betaling",
+        "content": "De betalingsmodaliteiten zijn vermeld op de offerte. Een voorschot kan worden gevraagd vóór de start."
+      },
+      {
+        "title": "Leveringstermijnen",
+        "content": "Termijnen worden per project vastgelegd en kunnen worden aangepast bij wijziging van de briefing, overmacht of bijzondere omstandigheden."
+      },
+      {
+        "title": "Verplichtingen van de klant",
+        "content": "De klant levert tijdig: briefing, doelstellingen, merkrichtlijnen, te filmen producten, technische beperkingen en locatie-informatie.",
+        "note": "Vertraging in aanlevering kan leiden tot verschuiving van de planning."
+      },
+      {
+        "title": "Correctierondes",
+        "content": "Het aantal inbegrepen rondes is vermeld in de offerte. Extra aanvragen kunnen leiden tot bijkomende facturering."
+      },
+      {
+        "title": "Levering van content",
+        "content": "Inhoud wordt geleverd via downloadlink, gedeelde drive, e-mail of andere overeengekomen methode."
+      },
+      {
+        "title": "Gebruiksrechten",
+        "content": "Rechten zijn bepaald in de offerte. Elk niet voorzien gebruik (betaalde reclame, overdracht aan derden) vereist een bijkomende overeenkomst."
+      },
+      {
+        "title": "Annulering en verplaatsing",
+        "content": "Voorwaarden zijn vermeld in de offerte. Bij laattijdige annulering door de klant kunnen gemaakte kosten of het voorschot verschuldigd blijven."
+      },
+      {
+        "title": "Aansprakelijkheid",
+        "content": "Content by Denise is niet aansprakelijk voor: gevraagde wijzigingen na validatie, oneigenlijk gebruik van inhoud, commerciële resultaten, platformonbeschikbaarheid of beperkingen van sociale netwerken."
+      },
+      {
+        "title": "Geen garantie op commerciële resultaten",
+        "content": "Content by Denise garandeert geen specifiek niveau van views, verkopen, engagement of conversies."
+      },
+      {
+        "title": "Persoonsgegevens",
+        "content": "Gegevens worden verwerkt conform het Privacybeleid."
+      },
+      {
+        "title": "Toepasselijk recht en geschillen",
+        "content": "Toepasselijk recht: [In te vullen]\nBevoegde rechtbank: [In te vullen]"
+      }
+    ]
+  },
+  "cookiePolicy": {
+    "title": "Cookiebeleid",
+    "description": "Hoe Content by Denise cookies en vergelijkbare technologieën gebruikt.",
+    "lastUpdated": "[In te vullen]",
+    "intro": "De website Content by Denise kan cookies of vergelijkbare technologieën gebruiken voor het goede functioneren, het meten van het gebruik of het verbeteren van de gebruikerservaring.",
+    "sections": [
+      {
+        "title": "Wat is een cookie?",
+        "content": "Een cookie is een klein bestand op het apparaat van de gebruiker bij het bezoeken van een website. Het kan een browser herkennen, voorkeuren onthouden of het gebruik meten."
+      },
+      {
+        "title": "Noodzakelijke cookies",
+        "content": "Deze cookies zijn noodzakelijk voor het goede functioneren van de website en vereisen niet altijd toestemming."
+      },
+      {
+        "title": "Analytische cookies",
+        "content": "Als Google Analytics of een ander meetinstrument wordt gebruikt, kunnen cookies het gebruik analyseren. Toestemming kan vereist zijn afhankelijk van de configuratie."
+      },
+      {
+        "title": "Cookies van derden",
+        "content": "De website kan links bevatten naar Instagram, TikTok, WhatsApp en andere externe platforms.",
+        "list": ["Instagram", "TikTok", "WhatsApp", "Andere externe platforms"],
+        "note": "Deze diensten kunnen hun eigen cookies plaatsen bij interactie."
+      },
+      {
+        "title": "Beheer van toestemming",
+        "content": "Bij gebruik van niet-essentiële cookies wordt een toestemmingsbanner voorzien waarmee u kunt:",
+        "list": ["Accepteren", "Weigeren", "Uw keuzes aanpassen", "Uw toestemming op elk moment wijzigen"]
+      },
+      {
+        "title": "Bewaartermijn",
+        "content": "De bewaartermijn hangt af van het type cookie. Termijnen in te vullen: [In te vullen]"
+      },
+      {
+        "title": "Cookievoorkeuren beheren",
+        "content": "U kunt uw cookievoorkeuren beheren via uw browserinstellingen of via de toestemmingsbanner."
+      }
+    ]
+  }
+}

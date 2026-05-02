@@ -29,6 +29,22 @@
     "privacy": {
       "title": "Privacy Policy — Content by Denise",
       "description": "Privacy policy for contentbydenise.com"
+    },
+    "legalNotice": {
+      "title": "Legal Notice — Content by Denise",
+      "description": "Legal information about the publisher and website of Content by Denise."
+    },
+    "termsOfUse": {
+      "title": "Terms of Use — Content by Denise",
+      "description": "Terms governing the use of the Content by Denise website."
+    },
+    "termsAndConditions": {
+      "title": "Terms & Conditions — Content by Denise",
+      "description": "General terms and conditions for services provided by Content by Denise."
+    },
+    "cookiePolicy": {
+      "title": "Cookie Policy — Content by Denise",
+      "description": "How Content by Denise uses cookies and similar technologies."
     }
   },
   "hero": {
@@ -165,7 +181,16 @@
     "privacy": "Privacy Policy",
     "contact": "Contact",
     "rights": "All rights reserved.",
-    "followUs": "Follow"
+    "followUs": "Follow",
+    "legalNotice": "Legal Notice",
+    "termsOfUse": "Terms of Use",
+    "termsAndConditions": "Terms & Conditions",
+    "cookiePolicy": "Cookie Policy",
+    "navigation": "Navigation",
+    "legal": "Legal",
+    "socialContact": "Follow & Contact",
+    "madeWith": "Made with",
+    "by": "by"
   },
   "portfolio": {
     "eyebrow": "Portfolio",
@@ -255,6 +280,200 @@
       {
         "title": "7. Contact",
         "content": "For any privacy-related questions, contact: denise_fabiano@outlook.com"
+      }
+    ]
+  },
+  "legalNotice": {
+    "title": "Legal Notice",
+    "description": "Legal information about the publisher and website of Content by Denise.",
+    "lastUpdated": "[To be completed]",
+    "sections": [
+      {
+        "title": "Website publisher",
+        "content": "Trade name: Content by Denise\nPublisher: Denise Fabiano\nLegal status: [To be completed]\nCompany / VAT number: [To be completed]\nProfessional address: [To be completed]\nEmail: [To be completed]\nPhone / WhatsApp: [To be completed]"
+      },
+      {
+        "title": "Publication director",
+        "content": "The publication director is Denise Fabiano."
+      },
+      {
+        "title": "Website",
+        "content": "Name: Content by Denise\nURL: https://contentbydenise.com"
+      },
+      {
+        "title": "Hosting",
+        "content": "This website is hosted by:\n\nVercel Inc.\n440 N Barranca Ave #4133\nCovina, CA 91723\nUnited States\nWebsite: https://vercel.com"
+      },
+      {
+        "title": "Website creation",
+        "content": "This website was designed and developed by:\n\nPixeloria\nWebsite creation & redesign for small businesses and professionals\nWebsite: https://pixeloria.fr\nEmail: contact@pixeloria.fr\nPhone: +33 7 86 12 53 13"
+      },
+      {
+        "title": "Intellectual property",
+        "content": "All elements on this website, including texts, images, videos, graphics, logos, visual content, structure and design, are protected by intellectual property law.\n\nAny reproduction, representation, modification or exploitation, in whole or in part, without prior written authorisation is prohibited."
+      },
+      {
+        "title": "Liability",
+        "content": "Content by Denise strives to provide accurate and up-to-date information but gives no guarantee as to the accuracy, completeness or currency of the published information."
+      },
+      {
+        "title": "Personal data",
+        "content": "Information on the processing of personal data is available in the Privacy Policy."
+      },
+      {
+        "title": "Cookies",
+        "content": "Information on the use of cookies and trackers is available in the Cookie Policy."
+      }
+    ]
+  },
+  "termsOfUse": {
+    "title": "Terms of Use",
+    "description": "Terms governing the use of the Content by Denise website.",
+    "lastUpdated": "[To be completed]",
+    "intro": "These Terms of Use govern access to and use of the Content by Denise website, accessible at: https://contentbydenise.com.\n\nBy browsing the website, the user accepts these Terms of Use.",
+    "sections": [
+      {
+        "title": "Purpose of the website",
+        "content": "The Content by Denise website presents the services of Denise Fabiano as a UGC and Event Content Creator. It allows users to:",
+        "list": ["discover her services", "browse her portfolio", "access her social media", "send a contact inquiry", "get in touch via WhatsApp or email"]
+      },
+      {
+        "title": "Website access",
+        "content": "The website is freely accessible to any user with internet access. Content by Denise strives to keep the website accessible but does not guarantee permanent, continuous or error-free access."
+      },
+      {
+        "title": "User obligations",
+        "content": "The user agrees to use the website lawfully and in good faith. The following are prohibited:",
+        "list": ["attempting to gain unauthorised access", "disrupting the functioning of the website", "copying or exploiting content without authorisation", "using forms to send abusive, fraudulent or unlawful messages"]
+      },
+      {
+        "title": "Intellectual property",
+        "content": "Website content is protected by intellectual property law. Any reproduction or exploitation without prior authorisation is prohibited."
+      },
+      {
+        "title": "External links",
+        "content": "The website may contain links to external platforms such as Instagram, TikTok, WhatsApp or other third-party websites. Content by Denise is not responsible for the content or functioning of these external platforms."
+      },
+      {
+        "title": "Personal data",
+        "content": "Use of the website may involve the collection of personal data, in particular through the contact form. Processing details are available in the Privacy Policy."
+      },
+      {
+        "title": "Modification of the terms",
+        "content": "Content by Denise reserves the right to modify these Terms of Use at any time. Users are encouraged to check this page regularly."
+      },
+      {
+        "title": "Applicable law",
+        "content": "Applicable law: [To be completed]"
+      }
+    ]
+  },
+  "termsAndConditions": {
+    "title": "Terms & Conditions",
+    "description": "General terms and conditions for services provided by Content by Denise.",
+    "lastUpdated": "[To be completed]",
+    "intro": "These Terms and Conditions govern the services provided by Content by Denise — UGC content, product content, lifestyle content, wedding content and event content produced by Denise Fabiano.",
+    "sections": [
+      {
+        "title": "Service provider",
+        "content": "Trade name: Content by Denise\nProvider: Denise Fabiano\nLegal status: [To be completed]\nCompany / VAT number: [To be completed]\nProfessional address: [To be completed]\nEmail: [To be completed]"
+      },
+      {
+        "title": "Services offered",
+        "content": "Content by Denise offers in particular:",
+        "list": ["UGC video creation", "Product content", "Lifestyle content", "Wedding coverage", "Event content", "Vertical videos for Instagram, TikTok, Reels and digital campaigns", "Visual content for beauty, lifestyle, hospitality and premium event brands"]
+      },
+      {
+        "title": "Quotes and orders",
+        "content": "Every service is preceded by a discussion to define: client needs, expected content type, deliverables, timelines, usage rights, options and pricing.\n\nAn order is confirmed upon written acceptance of the quote or commercial proposal."
+      },
+      {
+        "title": "Pricing",
+        "content": "Prices are not publicly displayed on the website. Each project receives a custom quote based on: service type, number of content pieces, project complexity, shoot location, timelines, usage rights and specific client needs."
+      },
+      {
+        "title": "Payment",
+        "content": "Payment terms are specified in the quote. Unless stated otherwise, a deposit may be requested before work begins."
+      },
+      {
+        "title": "Delivery timelines",
+        "content": "Timelines are defined per project and confirmed at order validation. They may be adjusted in case of brief changes, delays in providing required materials, special shoot conditions or force majeure."
+      },
+      {
+        "title": "Client obligations",
+        "content": "The client agrees to provide: a clear brief, objectives, brand guidelines, products to film if needed, technical constraints, rights and authorisations, and location/schedule information for events.",
+        "note": "Any delay in providing these elements may result in a schedule shift."
+      },
+      {
+        "title": "Revisions",
+        "content": "The number of included revisions is defined in the quote. Additional requests may be subject to extra charges."
+      },
+      {
+        "title": "Content delivery",
+        "content": "Content is delivered via download link, shared drive, email or another agreed method. Delivery formats are specified in the quote."
+      },
+      {
+        "title": "Usage rights",
+        "content": "Usage rights are defined in the quote. Any use not initially agreed upon — including paid advertising, sponsored campaigns, extended use, third-party transfer or use beyond the agreed duration — requires a supplementary agreement."
+      },
+      {
+        "title": "Cancellation and postponement",
+        "content": "Cancellation or postponement terms are defined in the quote. In case of late cancellation by the client, costs already incurred or the deposit may remain due."
+      },
+      {
+        "title": "Liability",
+        "content": "Content by Denise is not liable for: modifications requested after validation, misuse of content, commercial results, third-party platform unavailability, or social media platform constraints."
+      },
+      {
+        "title": "No guarantee of commercial results",
+        "content": "Content by Denise does not guarantee any specific level of views, sales, engagement, conversions or advertising performance."
+      },
+      {
+        "title": "Personal data",
+        "content": "Data collected during commercial exchanges is processed in accordance with the Privacy Policy."
+      },
+      {
+        "title": "Applicable law and disputes",
+        "content": "Applicable law: [To be completed]\nCompetent jurisdiction: [To be completed]"
+      }
+    ]
+  },
+  "cookiePolicy": {
+    "title": "Cookie Policy",
+    "description": "How Content by Denise uses cookies and similar technologies.",
+    "lastUpdated": "[To be completed]",
+    "intro": "The Content by Denise website may use cookies or similar technologies to ensure its proper functioning, measure audience and improve the user experience.",
+    "sections": [
+      {
+        "title": "What is a cookie?",
+        "content": "A cookie is a small file placed on the user's device when visiting a website. It can recognise a browser, remember preferences or measure website traffic."
+      },
+      {
+        "title": "Necessary cookies",
+        "content": "These cookies are required for the website to function properly. They do not always require user consent when strictly necessary."
+      },
+      {
+        "title": "Analytics cookies",
+        "content": "If Google Analytics, Google Tag Manager or another measurement tool is used, the website may place cookies to analyse traffic. User consent may be required depending on the tool configuration."
+      },
+      {
+        "title": "Third-party cookies",
+        "content": "The website may contain links or integrations with:",
+        "list": ["Instagram", "TikTok", "WhatsApp", "Other external platforms"],
+        "note": "These services may place their own cookies when the user interacts with them."
+      },
+      {
+        "title": "Consent management",
+        "content": "If non-essential cookies are used, a consent banner will allow the user to:",
+        "list": ["Accept", "Refuse", "Customise preferences", "Change consent at any time"]
+      },
+      {
+        "title": "Retention period",
+        "content": "Cookie retention depends on the type of cookie and tool used. Durations to be completed based on tools actually installed: [To be completed]"
+      },
+      {
+        "title": "Manage cookie preferences",
+        "content": "You can manage your cookie preferences at any time via your browser settings or via the consent banner."
       }
     ]
   }

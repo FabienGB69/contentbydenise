@@ -29,6 +29,22 @@
     "privacy": {
       "title": "Politique de confidentialité — Content by Denise",
       "description": "Politique de confidentialité de contentbydenise.com"
+    },
+    "legalNotice": {
+      "title": "Mentions légales — Content by Denise",
+      "description": "Informations légales sur l'éditrice et le site Content by Denise."
+    },
+    "termsOfUse": {
+      "title": "CGU — Content by Denise",
+      "description": "Conditions générales d'utilisation du site Content by Denise."
+    },
+    "termsAndConditions": {
+      "title": "CGV — Content by Denise",
+      "description": "Conditions générales de vente de Content by Denise."
+    },
+    "cookiePolicy": {
+      "title": "Politique cookies — Content by Denise",
+      "description": "Comment Content by Denise utilise les cookies et technologies similaires."
     }
   },
   "hero": {
@@ -165,7 +181,16 @@
     "privacy": "Politique de confidentialité",
     "contact": "Contact",
     "rights": "Tous droits réservés.",
-    "followUs": "Suivre"
+    "followUs": "Suivre",
+    "legalNotice": "Mentions légales",
+    "termsOfUse": "CGU",
+    "termsAndConditions": "CGV",
+    "cookiePolicy": "Politique cookies",
+    "navigation": "Navigation",
+    "legal": "Juridique",
+    "socialContact": "Suivre & Contact",
+    "madeWith": "Fait avec",
+    "by": "par"
   },
   "portfolio": {
     "eyebrow": "Portfolio",
@@ -255,6 +280,200 @@
       {
         "title": "7. Contact",
         "content": "Pour toute question relative à la confidentialité, contactez : denise_fabiano@outlook.com"
+      }
+    ]
+  },
+  "legalNotice": {
+    "title": "Mentions légales",
+    "description": "Informations légales sur l'éditrice et le site Content by Denise.",
+    "lastUpdated": "[À compléter]",
+    "sections": [
+      {
+        "title": "Éditrice du site",
+        "content": "Nom commercial : Content by Denise\nÉditrice : Denise Fabiano\nStatut juridique : [À compléter]\nNuméro d'entreprise / TVA : [À compléter]\nAdresse professionnelle : [À compléter]\nEmail : [À compléter]\nTéléphone / WhatsApp : [À compléter]"
+      },
+      {
+        "title": "Responsable de publication",
+        "content": "La responsable de publication est Denise Fabiano."
+      },
+      {
+        "title": "Site internet",
+        "content": "Nom du site : Content by Denise\nURL : https://contentbydenise.com"
+      },
+      {
+        "title": "Hébergement",
+        "content": "Le site est hébergé par :\n\nVercel Inc.\n440 N Barranca Ave #4133\nCovina, CA 91723\nUnited States\nSite : https://vercel.com"
+      },
+      {
+        "title": "Création du site",
+        "content": "Le site a été conçu et développé par :\n\nPixeloria\nCréation & refonte de sites pour artisans, indépendants et PME\nSite : https://pixeloria.fr\nEmail : contact@pixeloria.fr\nTéléphone : 07 86 12 53 13"
+      },
+      {
+        "title": "Propriété intellectuelle",
+        "content": "L'ensemble des éléments présents sur ce site sont protégés par le droit de la propriété intellectuelle. Toute reproduction sans autorisation écrite préalable est interdite."
+      },
+      {
+        "title": "Responsabilité",
+        "content": "Content by Denise s'efforce de fournir des informations exactes mais ne garantit pas leur exhaustivité ni leur actualité."
+      },
+      {
+        "title": "Données personnelles",
+        "content": "Les informations relatives au traitement des données personnelles sont disponibles dans la Politique de confidentialité."
+      },
+      {
+        "title": "Cookies",
+        "content": "Les informations relatives à l'utilisation des cookies sont disponibles dans la Politique cookies."
+      }
+    ]
+  },
+  "termsOfUse": {
+    "title": "Conditions Générales d'Utilisation",
+    "description": "Conditions générales d'utilisation du site Content by Denise.",
+    "lastUpdated": "[À compléter]",
+    "intro": "Les présentes CGU encadrent l'accès et l'utilisation du site Content by Denise, accessible à l'adresse : https://contentbydenise.com.\n\nEn naviguant sur le site, l'utilisateur accepte les présentes conditions.",
+    "sections": [
+      {
+        "title": "Objet du site",
+        "content": "Le site Content by Denise présente les services de Denise Fabiano en tant que créatrice UGC et Event Content Creator. Il permet notamment de :",
+        "list": ["découvrir ses services", "consulter son portfolio", "accéder à ses réseaux sociaux", "envoyer une demande de contact", "prendre contact via WhatsApp ou email"]
+      },
+      {
+        "title": "Accès au site",
+        "content": "Le site est accessible gratuitement. Content by Denise s'efforce de le maintenir accessible mais ne garantit pas un accès permanent ni sans erreur."
+      },
+      {
+        "title": "Utilisation du site",
+        "content": "L'utilisateur s'engage à utiliser le site de manière normale et conforme aux lois applicables. Il est interdit de :",
+        "list": ["tenter d'accéder frauduleusement au site", "perturber le fonctionnement du site", "copier ou exploiter les contenus sans autorisation", "utiliser les formulaires pour envoyer des messages abusifs ou illicites"]
+      },
+      {
+        "title": "Propriété intellectuelle",
+        "content": "Les contenus du site sont protégés par le droit de la propriété intellectuelle. Toute reproduction sans autorisation préalable est interdite."
+      },
+      {
+        "title": "Liens externes",
+        "content": "Le site peut contenir des liens vers des plateformes externes (Instagram, TikTok, WhatsApp…). Content by Denise ne peut être tenue responsable de leur contenu ou fonctionnement."
+      },
+      {
+        "title": "Données personnelles",
+        "content": "L'utilisation du site peut entraîner la collecte de données personnelles via le formulaire de contact. Voir la Politique de confidentialité."
+      },
+      {
+        "title": "Modification des CGU",
+        "content": "Content by Denise se réserve le droit de modifier les présentes CGU à tout moment."
+      },
+      {
+        "title": "Droit applicable",
+        "content": "Droit applicable : [À compléter]"
+      }
+    ]
+  },
+  "termsAndConditions": {
+    "title": "Conditions Générales de Vente",
+    "description": "Conditions générales de vente de Content by Denise.",
+    "lastUpdated": "[À compléter]",
+    "intro": "Les présentes CGV encadrent les prestations proposées par Content by Denise — création de contenu UGC, contenu produit, lifestyle, wedding et event content réalisées par Denise Fabiano.",
+    "sections": [
+      {
+        "title": "Prestataire",
+        "content": "Nom commercial : Content by Denise\nPrestataire : Denise Fabiano\nStatut juridique : [À compléter]\nNuméro d'entreprise / TVA : [À compléter]\nAdresse professionnelle : [À compléter]\nEmail : [À compléter]"
+      },
+      {
+        "title": "Services proposés",
+        "content": "Content by Denise propose notamment :",
+        "list": ["création de vidéos UGC", "contenu produit", "contenu lifestyle", "captation de contenus pour weddings", "event content", "vidéos verticales pour Instagram, TikTok, Reels et campagnes digitales", "contenus visuels pour marques beauté, lifestyle, hospitality et événements premium"]
+      },
+      {
+        "title": "Devis et commande",
+        "content": "Toute prestation fait l'objet d'un échange préalable pour définir : besoin du client, type de contenu, livrables, délais, droits d'utilisation et conditions financières.\n\nLa commande est validée après acceptation écrite du devis ou de la proposition commerciale."
+      },
+      {
+        "title": "Prix",
+        "content": "Les prix ne sont pas affichés publiquement. Chaque projet fait l'objet d'un devis personnalisé en fonction du type de prestation, nombre de contenus, complexité, lieu, délais, droits d'utilisation et besoins spécifiques."
+      },
+      {
+        "title": "Paiement",
+        "content": "Les modalités de paiement sont précisées sur le devis. Un acompte peut être demandé avant démarrage."
+      },
+      {
+        "title": "Délais de réalisation",
+        "content": "Les délais sont définis selon le projet et peuvent être ajustés en cas de modification du brief, retard dans la transmission des éléments, force majeure ou conditions particulières."
+      },
+      {
+        "title": "Obligations du client",
+        "content": "Le client s'engage à transmettre : brief clair, objectifs, guidelines de marque, produits si nécessaire, contraintes techniques, autorisations, et informations de lieu/horaires pour les événements.",
+        "note": "Tout retard dans la transmission de ces éléments peut entraîner un décalage du planning."
+      },
+      {
+        "title": "Révisions",
+        "content": "Le nombre de révisions incluses est défini dans le devis. Toute demande supplémentaire peut faire l'objet d'une facturation complémentaire."
+      },
+      {
+        "title": "Livraison des contenus",
+        "content": "Les contenus sont livrés via lien de téléchargement, drive partagé, email ou autre solution convenue."
+      },
+      {
+        "title": "Droits d'utilisation",
+        "content": "Les droits sont définis dans le devis. Toute utilisation non prévue (publicité payante, cession à un tiers, exploitation hors durée) nécessite un accord complémentaire."
+      },
+      {
+        "title": "Annulation et report",
+        "content": "Les conditions d'annulation ou de report sont définies dans le devis. En cas d'annulation tardive, les sommes engagées ou l'acompte peuvent rester dus."
+      },
+      {
+        "title": "Responsabilité",
+        "content": "Content by Denise n'est pas responsable des modifications demandées après validation, de la mauvaise utilisation des contenus, des résultats commerciaux, de l'indisponibilité d'une plateforme tierce, ou des contraintes liées aux réseaux sociaux."
+      },
+      {
+        "title": "Absence de garantie de résultat",
+        "content": "Content by Denise ne garantit pas un niveau précis de vues, ventes, engagement, conversions ou performances publicitaires."
+      },
+      {
+        "title": "Données personnelles",
+        "content": "Les données collectées sont traitées conformément à la Politique de confidentialité."
+      },
+      {
+        "title": "Droit applicable et litiges",
+        "content": "Droit applicable : [À compléter]\nJuridiction compétente : [À compléter]"
+      }
+    ]
+  },
+  "cookiePolicy": {
+    "title": "Politique cookies",
+    "description": "Comment Content by Denise utilise les cookies et technologies similaires.",
+    "lastUpdated": "[À compléter]",
+    "intro": "Le site Content by Denise peut utiliser des cookies ou technologies similaires afin d'assurer son bon fonctionnement, mesurer son audience ou améliorer l'expérience utilisateur.",
+    "sections": [
+      {
+        "title": "Qu'est-ce qu'un cookie ?",
+        "content": "Un cookie est un petit fichier déposé sur le terminal de l'utilisateur lors de la consultation d'un site. Il peut reconnaître un navigateur, mémoriser des préférences ou mesurer la fréquentation."
+      },
+      {
+        "title": "Cookies nécessaires",
+        "content": "Ces cookies sont nécessaires au bon fonctionnement du site. Ils ne nécessitent pas toujours le consentement de l'utilisateur."
+      },
+      {
+        "title": "Cookies de mesure d'audience",
+        "content": "Si Google Analytics ou un autre outil de mesure est utilisé, le site peut déposer des cookies d'analyse. Le consentement peut être nécessaire selon la configuration."
+      },
+      {
+        "title": "Cookies tiers",
+        "content": "Le site peut contenir des liens ou intégrations vers :",
+        "list": ["Instagram", "TikTok", "WhatsApp", "Autres plateformes externes"],
+        "note": "Ces services peuvent déposer leurs propres cookies lors de l'interaction de l'utilisateur."
+      },
+      {
+        "title": "Gestion du consentement",
+        "content": "Si des cookies non essentiels sont utilisés, un bandeau de consentement permet de :",
+        "list": ["Accepter", "Refuser", "Personnaliser les choix", "Modifier son consentement à tout moment"]
+      },
+      {
+        "title": "Durée de conservation",
+        "content": "La durée dépend du type de cookie et de l'outil. Durées à compléter selon les outils installés : [À compléter]"
+      },
+      {
+        "title": "Modifier ses préférences",
+        "content": "Vous pouvez gérer vos préférences cookies à tout moment via les paramètres de votre navigateur ou via le bandeau de consentement."
       }
     ]
   }

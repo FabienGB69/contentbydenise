@@ -6,12 +6,12 @@ type Props = { params: Promise<{ locale: string }> };
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
-  const t = await getTranslations({ locale, namespace: 'metadata.privacy' });
+  const t = await getTranslations({ locale, namespace: 'metadata.cookiePolicy' });
   return { title: t('title'), description: t('description') };
 }
 
-export default async function PrivacyPolicyPage() {
-  const t = await getTranslations('privacy');
+export default async function CookiePolicyPage() {
+  const t = await getTranslations('cookiePolicy');
 
   type Section = { title: string; content?: string; list?: string[]; note?: string };
   const sections: Section[] = t.raw('sections') as Section[];
